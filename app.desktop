@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name = HeenaApp
+Icon = /home/student/Desktop/Employ_Management/collage/logo.png
+Exec = python3 /home/student/Desktop/Employ_Management/test.py
+Type = Application
+Terminal = true
+Version = 0.99
+
